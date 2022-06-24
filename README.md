@@ -37,5 +37,5 @@
   <hr><br>
 
 # Now Playing 🎧 :)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rvnpvp3hwdqkg3xugva5qznrqm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rvnpvp3hwdqkg3xugva5qznrqm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31rvnpvp3hwdqkg3xugva5qznrqm?si=860d2e71760c4eb3)
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgessT7DOrmES7x-6xlUWUudCAlnwicrCiMHTvcuDVAQn1vhiFPBEFpF8q4har7a2Hu7MHmdxPDQ-TBbHckI2ZuMvWLzY3bUVXeHLeCfaWGtsYte_XWAi-64wyhJ9JoHXBArWv_21_i_unve3OFyotiWpjE9hAEnvuK1G_CRWtqwDhCIQJIFmcf_dwI/w141-h200/spotify.png" alt="sujeet gund" width="70" >
