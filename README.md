@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-808080?logo=About.me&logoColor=red)](https://sujeetgund.vercel.app)
+[![Website](https://img.shields.io/badge/Website-808080?logo=vercel&logoColor=white)](https://sujeetgund.vercel.app)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sujeet.gund.98) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujeet.gund) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujeetgund) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sujeet-Gund) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16740705) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sujeet_Gund) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC9B_ywLK2Vne4mtmGgWZklg) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=7620420850&text=Hi) [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=white)](https://snapchat.com/add/blackheart2832)
 
 # 💻 Tech Stack:
@@ -21,21 +21,32 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sujeetgund&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sujeetgund&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetgund&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+    <a href="#"><img alt="Sujeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujeetgund&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Sujeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetgund&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujeetgund&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> </p>
+    <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sujeetgund&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujeetgund&column=8&theme=onedark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetgund&theme=onedark&hide_border=false" />
+</div><br> <br>
+  
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sujeetgund&icon=0&color=10)](https://github.com/sujeetgund)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sujeetgund) 
-  
-  <hr><br>
+## Now Playing 🎧 :)
 
-# Now Playing 🎧 :)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rvnpvp3hwdqkg3xugva5qznrqm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31rvnpvp3hwdqkg3xugva5qznrqm?si=860d2e71760c4eb3)
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgessT7DOrmES7x-6xlUWUudCAlnwicrCiMHTvcuDVAQn1vhiFPBEFpF8q4har7a2Hu7MHmdxPDQ-TBbHckI2ZuMvWLzY3bUVXeHLeCfaWGtsYte_XWAi-64wyhJ9JoHXBArWv_21_i_unve3OFyotiWpjE9hAEnvuK1G_CRWtqwDhCIQJIFmcf_dwI/w141-h200/spotify.png" alt="sujeet gund" width="70" >
+<div align="center">
+    <a href="https://open.spotify.com/user/31rvnpvp3hwdqkg3xugva5qznrqm?si=860d2e71760c4eb3"><img alt="Sujeet's Github Stats" src="https://spotify-github-profile.vercel.app/api/view?uid=31rvnpvp3hwdqkg3xugva5qznrqm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" height="200"/></a>
+    <a href="https://linktr.ee/sujeetgund"><img alt="Sujeet Gund" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgessT7DOrmES7x-6xlUWUudCAlnwicrCiMHTvcuDVAQn1vhiFPBEFpF8q4har7a2Hu7MHmdxPDQ-TBbHckI2ZuMvWLzY3bUVXeHLeCfaWGtsYte_XWAi-64wyhJ9JoHXBArWv_21_i_unve3OFyotiWpjE9hAEnvuK1G_CRWtqwDhCIQJIFmcf_dwI/w141-h200/spotify.png" height="200"/></a>
+ 
+</div>
+
+
