@@ -37,7 +37,6 @@
 <p><a href="https://www.buymeacoffee.com/sujeetgund"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sujeetgund" /></a></p><br><br><br>
 
 <div style="display: flex">
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sujeetgund&show_icons=true&locale=en" alt="sujeetgund" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujeetgund&show_icons=true&locale=en&layout=compact" alt="sujeetgund" />
-  <br>
+<img src="https://github-readme-stats.vercel.app/api?username=sujeetgund&show_icons=true&locale=en" alt="sujeetgund" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujeetgund&show_icons=true&locale=en&layout=compact" alt="sujeetgund" />
 </div>
