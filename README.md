@@ -23,18 +23,18 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-    <a href="#"><img alt="Sujeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujeetgund&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-    <a href="#"><img alt="Sujeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetgund&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujeetgund&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> </p>
+    <img alt="Sujeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujeetgund&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/>
+<img alt="Sujeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetgund&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujeetgund&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet gund" /> </p>
     <br/>
-    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+    <i><b>💡 Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </div>
 <div align="center">
-    <a href="#"><img alt="Sujeet's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujeetgund&custom_title=Sujeet%20Gund's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
-  <img src="https://github-profile-trophy.vercel.app/?username=sujeetgund&column=8&theme=onedark" /><br>
-    <br>
+<img alt="Sujeet's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujeetgund&custom_title=Sujeet%20Gund's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=sujeetgund&column=8&theme=onedark" />
+    <br/> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetgund&theme=onedark&hide_border=false" />
-</div><br> <br>
+</div><br>
   
 <div>
     
