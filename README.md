@@ -60,11 +60,13 @@ Welcome to my GitHub profile! I'm a passionate **Data Science and Machine Learni
 - Integrated machine learning models with a user-friendly Next.js frontend
 - Deployed using modern DevOps practices with Docker containerization
 
+<!--
 ## 📈 GitHub Stats
 
 ![Sujeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujeetgund&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetgund&layout=compact&theme=radical)
+-->
 
 ## 🌟 What I'm Working On
 
@@ -81,7 +83,7 @@ I'm always excited to connect with fellow developers, researchers, and AI enthus
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujeetgund@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujeetgund)
 
-## 🤝 Open to Collaboration
+## 🤝 Open to Collaboration & Opportunities
 
 I'm always looking for exciting opportunities to collaborate on:
 - 🤖 Machine Learning and AI projects
