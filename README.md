@@ -2,7 +2,7 @@
 
 **AI Engineer crafting intelligent solutions that matter**
 
-Currently pursuing M.Tech in AI at VIT Bhopal with a 9.2 CGPA, passionate about building production-ready machine learning systems and exploring the frontiers of artificial intelligence.
+Currently pursuing M.Tech in AI at VIT Bhopal, passionate about building production-ready machine learning systems and exploring the frontiers of artificial intelligence.
 
 ```python
 class SujeetGund:
@@ -24,7 +24,7 @@ class SujeetGund:
         return "Making AI accessible and impactful 🚀"
 ```
 
-
+<!--
 ## Recent Projects
 
 **🛡️ PhishDetector** → [Code](https://github.com/sujeetgund/phishing-website-detection)
@@ -34,7 +34,7 @@ Machine learning system for detecting phishing websites with high accuracy. Prot
 **💻 LaptopWise** → [Code](https://github.com/sujeetgund/laptopwise) • [Live Demo](https://laptopwise.vercel.app)
 
 Full-stack web application that predicts laptop prices using Custom ML models and Gemini. Built with Next.js and deployed with modern DevOps practices.
-
+-->
 
 ## 🤝 Let's Connect & Collaborate
 
