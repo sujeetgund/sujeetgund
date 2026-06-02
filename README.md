@@ -1,48 +1,33 @@
-# Hello, I'm Sujeet Gund 👋
+# Sujeet Gund
 
-**AI Engineer crafting intelligent solutions that matter**
+**AI Engineer** · Integrated M.Tech AI @ VIT Bhopal (9.31 CGPA) · Building agentic systems
 
-Currently pursuing M.Tech in AI at VIT Bhopal, passionate about building production-ready machine learning systems and exploring the frontiers of artificial intelligence.
-
-```python
-class SujeetGund:
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.education = "M.Tech AI @ VIT Bhopal (CGPA: 9.2/10)"
-        self.passion = ["Generative AI", "MLOps", "Full-Stack ML"]
-        self.current_focus = "Building production-ready AI systems"
-    
-    def get_skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "SQL"],
-            "ml_stack": ["PyTorch", "TensorFlow", "Hugging Face", "scikit-learn"],
-            "deployment": ["FastAPI", "Docker", "AWS", "Streamlit"],
-            "web": ["Next.js", "React", "Node.js"]
-        }
-    
-    def current_mission(self):
-        return "Making AI accessible and impactful 🚀"
-```
-
-<!--
-## Recent Projects
-
-**🛡️ PhishDetector** → [Code](https://github.com/sujeetgund/phishing-website-detection)
-
-Machine learning system for detecting phishing websites with high accuracy. Protects users from cyber threats through intelligent URL analysis.
-
-**💻 LaptopWise** → [Code](https://github.com/sujeetgund/laptopwise) • [Live Demo](https://laptopwise.vercel.app)
-
-Full-stack web application that predicts laptop prices using Custom ML models and Gemini. Built with Next.js and deployed with modern DevOps practices.
--->
-
-## 🤝 Let's Connect & Collaborate
-
-I'm always interested in discussing AI research, collaborating on meaningful projects, or simply chatting about technology.
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujeetgund@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujeetgund)
-[![Resume](https://img.shields.io/badge/-Resume-333333?style=for-the-badge&logo=file-pdf&logoColor=white)](RESUME.pdf)
+I design and ship AI products — multi-agent pipelines, RAG systems, and full-stack ML platforms.
 
 ---
-*"Good code is like a good joke – it needs no explanation, but when it works, everyone appreciates it."*
+
+## What I'm Building
+
+**[GroundedAI](https://github.com/sujeetgund/grounded-ai)** — Hybrid RAG with CRAG loop  
+pgvector + tsvector · RRF re-ranking · Corrective RAG with LangGraph
+
+**[Legal Sahayak](https://github.com/sujeetgund/legalsahayak)** — Bilingual RAG legal aid for underserved India  
+FAISS + BM25 hybrid retrieval · LLaMA-3.3-70B via Groq · Hindi/English · Next.js + FastAPI
+
+**[Tonecast](https://github.com/sujeetgund/tonecast)** — Agentic brand voice & LinkedIn post generation  
+LangGraph workflows with HITL checkpoints · SSE streaming · Next.js + FastAPI
+
+---
+
+## Stack
+
+`LangGraph` `FastAPI` `Next.js` `PostgreSQL` `pgvector` `Docker` `Google Cloud` `AWS`  
+`Python` `TypeScript` `OpenAI` `HuggingFace`
+
+---
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-sujeetgund%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sujeetgund@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sujeetgund-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujeetgund)
+[![Website](https://img.shields.io/badge/Website-sujeetgund.in-333?style=flat-square&logo=globe&logoColor=white)](https://sujeetgund.in)
