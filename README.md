@@ -51,14 +51,36 @@ I build AI systems that actually ship — multi-agent workflows, self-correcting
 <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=roboto"><img alt="Docker" src="https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=roboto">
 </picture>
 
-
 <br />
 <br />
 
 Currently building **GroundedAI**, **MailMind**, and **rzp Merchant**.
 
-|                                                                                                   |                                                                                                                                                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[GroundedAI](https://github.com/sujeetgund/grounded-ai)**<br>_(Self-Correcting RAG)_            | Multi-source RAG agent using a **Corrective RAG (CRAG)** loop to detect and correct hallucinations.<br>• `pgvector` + `tsvector` hybrid search with **Reciprocal Rank Fusion (RRF)**<br>• Local NLI evaluation (`DeBERTa-v3`) for zero-cost faithfulness checks<br>• **Stack:** `LangGraph` `FastAPI` `pgvector` `Next.js`        |
-| **[MailMind](https://github.com/sujeetgund/mailmind)**<br>_(Agentic Email Processing)_            | Autonomous email processing engine that reads, classifies, and acts on incoming emails.<br>• Event-driven ingestion via **Resend webhooks** & LLM intent classification<br>• Production **Human-in-the-Loop (HITL)** approval gate for sensitive actions<br>• **Stack:** `LangGraph` `FastAPI` `FAISS` `PostgreSQL` `Next.js 16`  |
-| **[rzp Merchant](https://github.com/sujeetgund/rzp-merchant)**<br>_(Agentic E-Commerce Platform)_ | AI-native merchant platform built for the **Razorpay Buildathon**.<br>• **3-Tier Agent Security** supporting **Model Context Protocol (MCP)** & spending mandates<br>• "Shop with AI" conversational agent, **WebAuthn passkeys**, and Drizzle ORM<br>• **Stack:** `Next.js 16` `TypeScript` `Gemini 2.5` `Drizzle` `Better Auth` |
+<table width="100%">
+<tr>
+<td>
+<b><a href="https://github.com/sujeetgund/grounded-ai">GroundedAI</a></b><br><i>(Self-Correcting RAG)<i>
+</td>
+<td>
+Multi-source RAG agent using a <b>Corrective RAG (CRAG)</b> loop to detect and correct hallucinations.<br>• <i>pgvector + tsvector hybrid search</i> with <b>Reciprocal Rank Fusion (RRF)</b><br>• Local NLI evaluation <i>(DeBERTa-v3)</i> for zero-cost faithfulness checks<br>• <b>Stack:</b> <i>LangGraph, FastAPI, pgvector, Next.js</i>
+</td>
+</tr>
+
+<tr>
+<td>
+<b><a href="https://github.com/sujeetgund/mailmind">MailMind</a></b><br><i>(Agentic Email Processing)<i>
+</td>
+<td>
+Autonomous email processing engine that reads, classifies, and acts on incoming emails.<br>• Event-driven ingestion via <b>Resend webhooks</b> & LLM intent classification<br>• Production <b>Human-in-the-Loop (HITL)</b> approval gate for sensitive actions<br>• <b>Stack:</b> <i>LangGraph, FastAPI, FAISS, PostgreSQL, Next.js 16</i>
+</td>
+</tr>
+
+<tr>
+<td>
+<b><a href="https://github.com/sujeetgund/rzp-merchant">rzp Merchant</a></b><br><i>(Agentic E-Commerce Platform)</i>
+</td>
+<td>
+AI-native merchant platform built for the **Razorpay Buildathon**.<br>• <b>3-Tier Agent Security</b> supporting <b>Model Context Protocol (MCP)</b> & spending mandates<br>• "Shop with AI" conversational agent, <b>WebAuthn passkeys</b>, and Drizzle ORM<br>• <b>Stack:</b> <i>Next.js 16, TypeScript, Gemini 2.5, Drizzle, Better Auth</i>
+</td>
+</tr>
+</table>
